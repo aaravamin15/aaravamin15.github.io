@@ -4,7 +4,11 @@ title: About me
 subtitle: Who am I?
 ---
 
-My name is . I have the following qualities.
+My name is. I have the following qualities:
+
+-
+-
+-
 
 What else do you need?
 
